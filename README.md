@@ -1,0 +1,2 @@
+# trainingtask
+training about git
