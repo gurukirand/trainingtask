@@ -1,0 +1,385 @@
+
+.logo
+{
+ margin-top: -10px;
+ margin-left: 15px;
+}
+a.navbar-brand 
+{
+    padding: 0px 15px;
+   
+}
+.head
+{
+    padding:14px 0;
+   background-color: white;
+}
+.navbar{
+    background-color: white;
+    border-bottom:none;
+}
+.navbar ul{
+    margin-right: 100px;
+}
+.navbar li{
+    padding-right: 15px;
+}
+
+.head  .demo
+{
+    margin-left:50px; 
+    margin-top: 5px;
+    background-color: #000;
+    color: white;
+    font-weight: 600;
+    padding:8px 10px;
+}
+.navbar.navbar-default {
+    background-color: #99ccff;
+    border: 0;
+    box-shadow: none;
+}
+.hero
+{
+    position: relative;
+}
+.hero .video
+{
+    height: 550px;
+    width: 100%;
+}
+.hero .hero-content
+{
+    position: absolute;
+    top: 25%;
+    max-width:33%;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    bottom: 30%;
+    text-align: center;
+    color: white;
+}
+
+.play
+{
+    position: absolute;
+    width: 25%;
+    height: 25%;
+    top:65%;
+    left: 40%;
+    
+}
+.hero .hero-content h1
+{
+    font-size: 300%;
+}
+.hero .hero-content p{
+    font-size:150%;
+}
+
+.freedemo
+{
+position: relative;
+}
+.free
+{
+  padding: 50px 10px;
+}
+.subimage
+{
+    width:100%;
+}
+
+.freedemo .subtext
+{
+    text-align: justify;
+    padding: 20px 100px;
+}
+.freedemo .demo1
+{
+    position: absolute;
+    background-color: #000;
+    color: white;
+    padding: 10px;
+    top: 200px;
+}
+.benefit
+{
+    position: relative;
+    text-align: center;
+}
+.benefit .image
+{
+    width: 100%;
+    height: 400px;
+}
+.benefit .benimg
+{
+    width: 100px;
+    height: 100px;
+}
+.benefit .top2
+{
+    position: absolute;
+    top: 20px;
+    margin: auto;
+    top:15px;
+    bottom: 0%;
+    left: 0;
+    right:0;
+}
+.benefit .ben
+{
+ padding: 70px;
+ padding-bottom: 30PX;
+ line-height: 1.7;
+ border-bottom: 1px solid gray;
+}
+.benefitfull
+{
+    position: absolute;
+    top: 150px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: white;
+}
+.customer
+{
+    padding: 20px;
+}
+ .ben::before
+{
+    position: absolute;
+    content: '';
+    border-right: 1px solid gray;
+    height: 70%;
+    left: 100%;
+    top:100px;
+    
+}
+.benefit .ben1
+{
+ padding: 70px;
+ padding-bottom: 30PX;
+ line-height: 1.7;
+ border-bottom: 1px solid gray;
+}
+.imgpro
+{
+    width: 100%;
+}
+.solution
+{
+    position: relative;
+}
+.benefit
+{
+    height: 750px;
+}
+.imagetext
+{
+    position:relative;
+    height: 400%;
+}
+.imgpro{
+    height: 500px;
+}
+.textonimg
+{
+    background-color: white;
+    padding: 15px;
+    text-align:justify;
+    width:33%;
+    position: absolute;
+    top:70px;
+    right: 100px;
+}
+
+.clientlogo
+{
+   width: 120px;
+   height: 120px;
+}
+.clientbor
+{
+ 
+    border-right:1px solid gray;
+    border-bottom: 1px solid gray;
+    
+}
+
+.clientbor:last-child
+{
+    border-right: 0px solid gray;
+}
+
+.top5
+{
+    padding: 20px 0;
+}
+.top4
+{
+    padding: 20px 0;
+}
+.top3
+{
+    padding: 20px 0;
+}
+
+.top5{
+    padding: 20px 0;
+}
+
+
+.testimonial .testimage
+{
+    width: 100%;
+    padding: 10px 10px;
+}
+
+.test1text
+{
+    padding: 10px 20px;
+}
+.authorimg
+{
+    width: 50px;
+    height: 50px;
+}
+.testimonial .testquote
+{
+    width: 50px;
+    height: 50px;
+    padding: 10px 10px;
+    float: left;
+    clear: both;
+}
+.test1
+{
+    border: 1px solid gray;
+    padding-bottom: 20px;
+}
+.test2
+{
+    border: 1px solid gray;
+    padding: 20px;
+    margin-top: 10px;
+}
+.test3
+{
+    border: 1px solid gray;
+    padding: 20px;
+}
+.test4
+{
+    border: 1px solid gray;
+    padding: 10px;
+    margin-top: 10px;
+}
+.testimonial .view
+{
+    background-color: white;
+    color: #000;
+    margin-top: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-color: black;
+}
+
+
+    .contact-us
+{
+    background-color: #29232363;
+}
+.contact-us .contact-us1
+{
+    padding:50px;
+}
+.contact-us .contact-us1 .contact
+{
+    font-size:22px;
+    border-right: 2px solid #040404c7;
+}
+.contact-us .contact-us1 .contact:last-child
+{
+    border-right: none;
+}
+.contact-us .contact-us1 button{
+    color:#040404c7;
+    background-color: white;
+    padding: 10px 20px;
+    border-style: solid;
+    border-color: #040404c7;
+}
+.contact-us .contact-us2 .subscribe
+{
+    font-size:22px;
+}
+.contact-us .contact-us2
+{
+    padding-bottom:50px;
+}
+.footer{
+    padding-top:20px;
+    padding-bottom:50px;
+    background-color: #262626;
+    color:white;
+}
+.footer .city-name1{
+    padding-top:10px;
+    padding-left:20px;
+}
+.footer .city{
+    border-right: 2px solid black;
+}
+.footer .city:last-child{
+    border-right: none;
+}
+.footer .links .footer1 .solutions h3{
+    padding-left:0px;
+}
+.footer .links .footer1 .solutions ul li{
+    list-style-type: none;
+    line-height: 24px;
+}
+.footer .links .footer1 .solutions .solution{
+    padding:0;
+}
+.footer .links .footer1 .aboutus h3{
+    padding-left:0px;
+}
+.footer .links .footer1 .aboutus ul li{
+    list-style-type: none;
+    line-height: 24px;
+}
+.footer .links .footer1 .aboutus .about{
+    padding:0;
+}
+.footer .links .footer1 .customer h3{
+    padding-left:0px;
+}
+.footer .links .footer1 .customer ul li{
+    list-style-type: none;
+    line-height: 24px;
+}
+.footer .links .footer1 .customer .custom{
+    padding:0;
+}
+.footer .links .footer1 .supports h3{
+    padding-left:0px;
+}
+.footer .links .footer1 .supports ul li{
+    list-style-type: none;
+    line-height: 24px;
+}
+.footer .links .footer1 .supports .support{
+    padding:0;
+}
+.footer .links .footer2 .contactus .image{
+    height: 40px;
+  width: 40px;
+  border-radius: 50px;
+}

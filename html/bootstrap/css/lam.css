@@ -1,0 +1,633 @@
+
+.logo
+{
+ margin-top: -10px;
+ margin-left: 15px;
+}
+a.navbar-brand 
+{
+    padding: 0px 15px;
+   
+}
+.head
+{
+    padding:14px 0;
+   background-color: white;
+}
+.head .dropdown .dropdown-menu
+{
+    left:0;
+    right:auto;
+}
+.navbar{
+    background-color: white;
+    border-bottom:none;
+}
+.navbar ul{
+    margin-right: 100px;
+}
+.navbar li{
+    padding-right: 15px;
+}
+
+.head  .demo
+{
+    margin-left:50px; 
+    margin-top: 5px;
+    background-color: #000;
+    color: white;
+    font-weight: 600;
+    padding:8px 10px;
+}
+.navbar.navbar-default {
+    background-color: #99ccff;
+    border: 0;
+    box-shadow: none;
+}
+.hero
+{
+    position: relative;
+}
+.hero .video
+{
+    height: 550px;
+    width: 100%;
+}
+.hero .hero-content
+{
+    position: absolute;
+    top: 25%;
+    max-width:33%;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    bottom: 30%;
+    text-align: center;
+    color:black;
+}
+
+.play
+{
+    position: absolute;
+    width: 25%;
+    height: 25%;
+    top:65%;
+    left: 40%;
+    
+}
+.hero .hero-content h1
+{
+    font-size: 300%;
+}
+.hero .hero-content p{
+    font-size:150%;
+}
+
+.freedemo
+{
+position: relative;
+}
+.free
+{
+  padding: 50px 10px;
+}
+.subimage
+{
+    width:100%;
+}
+
+.freedemo .subtext
+{
+    text-align: justify;
+    padding: 20px 100px;
+}
+.freedemo .demo1
+{
+    position: absolute;
+    background-color: #000;
+    color: white;
+    padding: 10px;
+    top: 200px;
+    font-size: 18px;
+}
+.benefit
+{
+    position: relative;
+    text-align: center;
+}
+.benefit .image
+{
+    width: 100%;
+    height: 400px;
+}
+.benefit .benimg
+{
+    width: 100px;
+    height: 100px;
+}
+.benefit .top2
+{
+    position: absolute;
+    top: 20px;
+    margin: auto;
+    top:15px;
+    bottom: 0%;
+    left: 0;
+    right:0;
+}
+.benefit .ben
+{
+ padding: 70px;
+ padding-bottom: 30PX;
+ line-height: 1.7;
+ border-bottom: 1px solid gray;
+}
+.benefitfull
+{
+    position: absolute;
+    top: 150px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: white;
+}
+.customer
+{
+    padding: 20px;
+}
+.customer h3
+{
+    font-size: 50px;
+    font-weight: 500;
+}
+ .ben::before
+{
+    position: absolute;
+    content: '';
+    border-right: 1px solid gray;
+    height: 70%;
+    left: 100%;
+    top:100px;
+    
+}
+.benefit .ben1
+{
+ padding: 70px;
+ padding-bottom: 30PX;
+ line-height: 1.7;
+ border-bottom: 1px solid gray;
+}
+.imgpro
+{
+    width: 100%;
+}
+.solution
+{
+    position: relative;
+}
+.benefit
+{
+    height: 650px;
+}
+.imagetext
+{
+    position:relative;
+    height: 400%;
+}
+.imgpro{
+    height: 500px;
+}
+.textonimg
+{
+    background-color: white;
+    padding: 15px;
+    text-align:justify;
+    width:33%;
+    position: absolute;
+    top:70px;
+    right: 100px;
+}
+
+.clientlogo
+{
+   width: 120px;
+   height: 120px;
+}
+.clientbor
+{
+    border-right:1px solid gray;
+    border-bottom: 1px solid gray;  
+}
+.clientbor1
+{
+    border-right:1px solid gray;
+}
+.clientbor:last-child
+{
+ border-right: 0px solid gray;
+ }
+.clientbor1:last-child
+{
+    border-right: 0px solid gray;
+}
+
+.top5
+{
+    padding: 20px 0;
+}
+.top4
+{
+    padding: 20px 0;
+}
+.top3
+{
+    padding: 20px 0;
+}
+
+.top5{
+    padding: 20px 0;
+}
+
+
+.testimonial .testimage
+{
+    width: 100%;
+    padding: 10px 10px;
+}
+
+.test1text
+{
+    padding: 10px 20px;
+}
+.authorimg
+{
+    width: 50px;
+    height: 50px;
+}
+.testimonial .testquote
+{
+    width: 50px;
+    height: 50px;
+    padding: 10px 10px;
+    float: left;
+    clear: both;
+}
+.para
+{
+    padding: :0;
+}
+.test1
+{
+    border: 1px solid gray;
+    padding-bottom: 20px;
+}
+.test2
+{
+    border: 1px solid gray;
+    padding: 20px;
+    margin-top: 10px;
+}
+.test3
+{
+    border: 1px solid gray;
+    padding: 20px;
+}
+.test4
+{
+    border: 1px solid gray;
+    padding: 10px;
+    margin-top: 10px;
+}
+.testimonial .view
+{
+    background-color: white;
+    color: #000;
+    margin-top: 10px;
+    font-size: 16px;
+    margin-bottom: 10px;
+    border-color: black;
+    border-radius: 0;
+}
+
+ .getin
+{
+    background-color: #b5b5b5;
+}
+.getin .getin1
+{
+    padding:30px;
+}
+.getin .contact
+{
+    font-size:23px;
+    border-right: 2px solid #040404c7;
+}
+.getin .contact:last-child
+{
+    border-right: none;
+}
+.getin .getin1 button{
+    color:#040404c7;
+    background-color: #b5b5b5;
+    padding: 10px 20px;
+    border-style: solid;
+    border-color: #040404c7;
+}
+.getin .getin2 .subscribe
+{
+    font-size:26px;
+    margin-left: 25px;
+}.getin .getin2 .subscribe1
+{
+    font-size:26px;
+    margin-left: -10px;
+}
+.getin .getin2 .form
+{
+    height: 45px;
+}
+.getin .sub
+{
+ padding: 11px;
+ background-color: #000;
+ color: white;
+ font-size: 16px;
+
+}
+.getin .getin2
+{
+    padding-bottom:40px;
+}
+.footer{
+    padding-top:20px;
+    padding-bottom:50px;
+    background-color: #262626;
+    color:white;
+}
+.footer .city1{
+    padding-top:10px;
+    padding-left:20px;
+}
+.footer .city{
+    border-right: 2px solid white;
+}
+.footer .city:last-child{
+    border-right: none;
+}
+.solutions h3{
+    padding-left:0px;
+}
+ .solutions ul li{
+    list-style-type: none;
+    line-height: 24px;
+}
+.solutions .solution{
+    padding:0;
+}
+.footer  .aboutus h3{
+    padding-left:0px;
+}
+ .aboutus ul li{
+    list-style-type: none;
+    line-height: 24px;
+}
+.aboutus .about{
+    padding:0;
+}
+ .customer h3{
+    padding-left:0px;
+}
+.customer ul li{
+    list-style-type: none;
+    line-height: 24px;
+}
+.customer .custom{
+    padding:0;
+}
+.customer
+{
+    margin-top: -20px;
+}
+.supports h3{
+    padding-left:0px;
+}
+.supports ul li{
+    list-style-type: none;
+    line-height: 24px;
+}
+ .supports .support{
+    padding:0;
+}
+.contact     .image{
+    height: 40px;
+  width: 40px;
+  border-radius: 50px;
+}
+.foot1
+{
+    margin-top: 20px;
+}
+
+.foot2
+{
+    margin-top: 20px;
+}
+.sup
+{
+    margin-left: 20px;
+}
+.benifits
+{
+    width: 100%;
+}
+
+@media (max-width:767px)
+{
+    .head
+    {
+        padding: 10px;
+    }
+    .logo
+    {
+        height: 60px;
+        width: 50px;
+        padding-top: 15px;
+    }
+    .hero .hero-content h1
+    {
+     font-size: 28px;
+        }
+        .hero .hero-content p
+        {
+            font-size: 14px;
+        }
+        .hero .video{
+        width: 100%;
+        height: 400px;
+        }
+        .hero .play{
+            margin-top: 10px;
+        }
+        .demo1
+        {
+            margin-top:150px;
+        }
+        .benefit
+        {
+            height: 1450px;
+            width: 100%;
+        }
+        .imagetext .textonimg
+        {
+            width: 300px;
+            margin-right:-90px;
+            font-size: 13px;
+        }
+        .footer .city{
+            border-right: none;
+        }
+        .getin .contact
+{
+    font-size:18px;
+    border-right:none;
+}
+.benefit .benefitfull .ben
+{
+   border-right: none;
+   width: 330px;
+   padding: 20px;
+   padding-left: 20px;
+}
+.benefit .benefitfull .ben1
+{
+   border-right: none;
+   width: 330px;
+   padding: 20px;
+   padding-left: 20px;
+}
+.clients .mobilenone{
+    border-right: none;
+ } 
+ .clients .mobbot{
+    border-bottom: 1px solid gray;;
+ } 
+ .benefit .image{
+     height: 300px;
+ }
+ .benefit .mben
+ {
+    padding: 30px;
+    padding-bottom: 20PX;
+    line-height: 1.5;
+    border-bottom:none;
+   }
+   .benefit .mben::before
+   {
+       border-right: none;
+   }
+   .benefit .mben2
+ {
+    padding: 30px;
+    padding-bottom: 20PX;
+    line-height: 1.5;
+    border-bottom:none;
+   }
+   .freedemo .demo1
+{
+    position: absolute;
+    background-color: #000;
+    color: white;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.freedemo .subtext
+{
+    text-align: justify;
+    padding: 20px 30px;
+}
+.customer h3
+{
+    font-size: 30px;
+    font-weight: 500;
+}
+.hero .hero-content
+{
+    position: absolute;
+    top: 25%;
+    max-width:50%;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    bottom: 30%;
+    text-align: center;
+    color:white;
+    font-weight: 600;
+}
+.hero
+{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.freedemo
+{
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.benefit
+{
+    padding-left: 20px;
+}
+.benefit .top2 p
+{
+    padding-left: 15px;
+    }
+    .solution
+    {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .clients
+    {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .head  .demo
+{
+    margin-left:10px; 
+    margin-top: 5px;
+    background-color: #000;
+    color: white;
+    font-weight: 500;
+    padding:6px 8px;
+}
+.benefit .image
+{
+    padding-right: 20px;
+}
+.benefit .top2 p {
+    padding-left: 9px;
+    width: 330px;
+}
+.getin .getin2 .subscribe
+{
+    font-size:18px;
+    margin-left:0;
+    padding-bottom: 10px;
+}
+.getin .sub
+{
+ padding: 10px;
+ background-color: #000;
+ color: white;
+ font-size: 15px;
+
+}
+.getin .getin2 .subscribe1
+{
+    margin-left: 5px;
+}
+.test3{
+    margin-top: 10px;
+}
+}
