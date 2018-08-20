@@ -1,0 +1,10 @@
+@import "bootstrap/_variables.scss";
+footer
+{
+    background-color: $gray-base;
+    padding: 10px;
+    p
+    {
+        color: $body-bg;
+    }
+}

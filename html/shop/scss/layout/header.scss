@@ -1,0 +1,113 @@
+header{
+    background-color:white;
+    color: black;
+}
+.top-header
+{
+     padding: 0px;
+    .top-pad{
+        padding: 0;
+
+    }
+    ul
+    {
+        padding-left: 400px;
+        margin-left: 400px;
+        li
+        {
+            display: inline;
+            padding: 10px;
+            a
+            {
+                color:red;
+                text-decoration: none;
+                &:hover{
+                    color: green;
+                }
+            }
+        }
+    }
+}
+
+.navbar-default
+{
+    background-color: white !important;
+    border: none;   
+    .navbar-header
+    {
+ .navbar-brand
+    {
+            height: 70px;
+            padding-left: 10px;
+            margin-top: -60px;
+    }
+    }
+    .nav
+{
+    top:0;
+    bottom: 0;
+    margin:auto 0;
+    margin-left: 50px;
+        li
+        {
+           padding: 0  5px;
+            a
+            {
+                color:black;
+                font-weight: 500;
+                &:hover
+                {
+                 color: green;
+                }
+            }
+        }
+}
+}
+.input-group
+{
+ position: relative;
+.search-query
+{ 
+    width: 300px;
+    margin-top: 10px;
+    border-radius:3px;
+}
+  .fa
+{
+    position: absolute;
+    top: 20px;
+    right:10px;
+    z-index: 10;
+}
+}
+.icons
+{
+ float: right;
+ margin-top: -45px;
+ margin-right: 30px;
+ i
+ {
+     padding: 20px;
+ }
+}
+
+
+
+
+@media screen and (max-width: 600px) {
+    .top-header {
+      visibility: hidden;
+      clear: both;
+      float: left;
+      margin: 10px auto 5px 20px;
+      width: 28%;
+      display: none;
+    }
+    .navbar-default
+    {
+        .navbar-brand
+        {
+            margin-top: 100px;
+        }
+    }
+  }
